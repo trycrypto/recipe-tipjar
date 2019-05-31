@@ -1,5 +1,5 @@
 
-const Recipe = artifacts.require("Tips");
+const Recipe = artifacts.require("TipJar");
 const BigNumber = require('bignumber.js');
 const bs58 = require('bs58');
 

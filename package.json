@@ -1,11 +1,11 @@
 {
-  "name": "recipe-tips",
+  "name": "recipe-tipjar",
   "version": "0.1.0",
-  "description": "SmartPage recipe for receiving Tips (donations) for published works.",
+  "description": "SmartPage recipe for receiving tips (donations) for published works.",
   "directories": {
     "test": "test"
   },
-  "repository": "https://github.com/trycrypto/recipe-tips",
+  "repository": "https://github.com/trycrypto/recipe-tipjar",
   "license": "MIT",
   "scripts": {
     "test": "truffle test ./test/recipe.js"

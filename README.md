@@ -1,6 +1,6 @@
-# SmartPage Recipe - Tips
+# SmartPage Recipe - TipJar
 
-This is a SmartPage recipe for receiving Tips (donations) for published works.
+This is a SmartPage recipe for receiving tips (donations) for published works.
 
 # Pre-requisites
 
@@ -15,7 +15,7 @@ In order to develop and build this Smart Contract, the following pre-requisites 
 # Installation
 
 1. Launch the Ganache GUI and create a new workspace with the following settings:
-   - Workspace Name: *recipe-tips*
+   - Workspace Name: *recipe-tipjar*
    - Port Number (Server tab): *7545*
    - Network ID (Server tab): *5777*
    - Mnemonic (Accounts & Keys tab): *pottery movie angle day assault faculty banana rural lyrics hammer believe learn*
